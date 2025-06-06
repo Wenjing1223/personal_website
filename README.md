@@ -17,16 +17,13 @@ project/
 │   ├── home.py             # Home page
 │   ├── experience.py       # Experience page
 │   ├── education.py        # Education page
-│   ├── resume.py           # Resume page
 │   └── contact.py          # Contact page
 └── static/                 # Static assets
     ├── css/                # CSS stylesheets
     │   └── style.css       # Main stylesheet
     ├── images/             # Image files
-    │   └── image.png       # Profile image
-    └── docs/               # Documents
-        ├── resume.md       # Resume in markdown format
-        └── resume.pdf      # Resume in PDF format
+        └── image.png       # Profile image
+
 ```
 
 ## Running the Application
